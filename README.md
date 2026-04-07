@@ -2,19 +2,13 @@
 <!-- ========= 置顶项目区域 ========= -->
 <h2 align="center">📌 置顶项目</h2>
 
+<!-- 替换原先的 api/pin 卡片为这个 -->
 <p align="center">
   <a href="https://github.com/CelestialAsPeak/CAPQuake">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CelestialAsPeak&repo=CAPQuake&theme=radical&hide_border=true&border_radius=8" alt="CAPQuake" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repo?username=CelestialAsPeak&repo=CAPQuake&theme=radical" />
   </a>
 </p>
 
-
----
-
-### 🧑‍💻 关于我
-
-- EEW(Earthquake Early Warning)爱好者。
-- 🐍 主语言 **Python**，正在学习C++和Html5.
 
 ---
 
