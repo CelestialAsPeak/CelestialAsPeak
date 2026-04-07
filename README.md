@@ -67,28 +67,6 @@
 </tr>
 </table>
 
----
-
-### 🚀 Featured Project
-
-<div align="center">
-  <a href="https://github.com/CelestialAsPeak/CAPQuake">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CelestialAsPeak&repo=CAPQuake&theme=radical&show_owner=true" />
-  </a>
-</div>
-
-<h4 align="center">🌍 CAPQuake — 地震事件分析工具</h4>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python" />
-  <img src="https://img.shields.io/badge/License-MIT-green" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
-</p>
-
-<p align="center">
-  基于 Python 的地震目录清洗、统计与可视化工具。<br/>
-  支持 USGS / CENC 格式，内置震级-频度分布、时空分布快速绘图。
-</p>
 
 ---
 
