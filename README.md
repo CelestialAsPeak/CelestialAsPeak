@@ -5,26 +5,17 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelestialAsPeak&layout=compact&hide_title=true&hide_border=true&langs_count=6&bg_color=0D1117&text_color=C9D1D9"/>
 </div>
 
-<!-- 项目矩阵（紧凑2x2） -->
+<!-- 唯一项目卡片：CAPQuake -->
 <div align="center">
   <a href="https://github.com/CelestialAsPeak/CAPQuake">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CelestialAsPeak&repo=CAPQuake&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
-  </a>
-  <a href="https://github.com/CelestialAsPeak/CAPBots">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CelestialAsPeak&repo=CAPBots&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
-  </a>
-  <a href="https://github.com/CelestialAsPeak/TimeClock">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CelestialAsPeak&repo=TimeClock&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
-  </a>
-  <a href="https://github.com/CelestialAsPeak/CAPLifeOnline">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CelestialAsPeak&repo=CAPLifeOnline&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
+    <img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=CelestialAsPeak&repo=CAPQuake&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
   </a>
 </div>
 
-<!-- 贡献方格图（核心视觉） -->
+<!-- 贡献方格图（使用 ghchart 稳定服务） -->
 <div align="center">
   <a href="https://github.com/CelestialAsPeak">
-    <img src="https://github-readme-contribution-grid.vercel.app/api?username=CelestialAsPeak&theme=github-dark&bg_color=0D1117&color=58A6FF&secondary=161B22&margin=15" width="100%"/>
+    <img src="https://ghchart.rshah.org/58A6FF/CelestialAsPeak" alt="CelestialAsPeak's GitHub contribution chart" width="100%"/>
   </a>
 </div>
 
