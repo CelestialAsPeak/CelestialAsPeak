@@ -16,7 +16,8 @@
 <p align="center">
   💻 全栈开发者 / 学生 / 热爱开源<br>
   🌱 我正在学习 React 和 Go<br>
-  📫 联系我: your.email@example.com<br>
+  🚀 正在开发 CAPQuake, CAPBots 和 CAPLifeOnline<br>
+  📫 联系我: 3420337181@qq.com (或者闲着没事可以找我聊天ovo)<br>
   ⚡ 有趣的事: 我喜欢打羽毛球和弹吉他
 </p>
 
@@ -48,6 +49,17 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+<!-- 项目展示 -->
+<h2 align="center">📦 项目展示 | Featured Projects</h2>
+<p align="center">
+  <a href="https://github.com/CelestialAsPeak/CAPQuake">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CelestialAsPeak&repo=CAPQuake&theme=tokyonight" alt="CAPQuake" />
+  </a>
+  <a href="https://github.com/CelestialAsPeak/TimeClock">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CelestialAsPeak&repo=TimeClock&theme=tokyonight" alt="TimeClock" />
+  </a>
 </p>
 
 <!-- GitHub 统计卡片 -->
