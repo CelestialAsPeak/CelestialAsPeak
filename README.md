@@ -28,7 +28,7 @@
 - 🎯 **专注**：地震数据处理、科学计算可视化
 - 🌱 **学习**：算法 · C++ · HTML5
 - 🐍 **主语言**：Python (NumPy, Pandas, Matplotlib)
-- 📧 **联系**：your.email@example.com
+- 📧 **联系**：celestialaspeak@outlook.com
 
 ### 🛠️ Tech Stack
 
