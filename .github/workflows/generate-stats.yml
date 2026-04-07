@@ -1,0 +1,49 @@
+name: Generate README Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天 UTC 0 点运行一次
+  workflow_dispatch: # 允许手动触发
+  push:
+分支: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=CelestialAsPeak&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&count_private=true
+          path: assets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: streak
+          options: user=CelestialAsPeak&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideNums=C9D1D9&dates=8B949E
+          path: assets/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=CelestialAsPeak&layout=compact&hide_title=true&hide_border=true&langs_count=6&bg_color=0D1117&text_color=C9D1D9
+          path: assets/langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git commit -m "📊 Auto-update README stats" || exit 0
+          git push
