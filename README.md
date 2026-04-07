@@ -1,17 +1,3 @@
-
-<!-- ========= 置顶项目区域 ========= -->
-<h2 align="center">📌 置顶项目</h2>
-
-<!-- 替换原先的 api/pin 卡片为这个 -->
-<p align="center">
-  <a href="https://github.com/CelestialAsPeak/CAPQuake">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repo?username=CelestialAsPeak&repo=CAPQuake&theme=radical" />
-  </a>
-</p>
-
-
----
-
 ### ⚙️ 技术栈
 
 <p align="center">
@@ -42,20 +28,6 @@
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CelestialAsPeak&theme=redical&hide_border=true&area=true&bg_color=141321&color=E5289E&line=DA5B0C&point=FFFFFF" />
 
 </div>
----
-
-### 🚀 主要项目
-
-<p align="center">
-  <a href="https://github.com/CelestialAsPeak/CAPQuake">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CelestialAsPeak&repo=CAPQuake&theme=radical" />
-  </a>
-</p>
-
-#### 🌍 CAPQuake — 地震事件分析工具
-
-> 🎥 项目运行演示：[[B站视频链接](https://space.bilibili.com/1680353559)]
-
 ---
 
 ### 🏆 GitHub 奖杯
