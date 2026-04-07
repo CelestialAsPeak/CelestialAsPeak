@@ -1,7 +1,3 @@
-<!-- 头部横幅：可自行替换为喜欢的图片，尺寸建议 1920x320 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=CelestialAsPeak&fontSize=60&fontAlignY=35&animation=fadeIn"/>
-</p>
 
 <p align="center">
   <!-- 访客计数器 -->
@@ -39,18 +35,18 @@
 
 ### 📊 GitHub 统计
 
-<p align="center">
-  <!-- GitHub 统计卡片 -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CelestialAsPeak&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <!-- 最常用语言卡片 -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelestialAsPeak&layout=compact&langs_count=8&theme=radical"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <!-- GitHub 连续打卡 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelestialAsPeak&theme=radical" alt="streak" />
-</p>
+<!-- 第一行：三卡片并排，更紧凑 -->
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=CelestialAsPeak&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=8&line_height=24" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelestialAsPeak&layout=compact&langs_count=6&theme=radical&hide_border=true&border_radius=8&card_width=320" />
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=CelestialAsPeak&theme=radical&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" />
 
+<!-- 第二行：奖杯和活跃时间线，信息更丰富但依然紧凑 -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=CelestialAsPeak&theme=radical&no-frame=true&row=1&column=7&margin-w=10" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CelestialAsPeak&theme=redical&hide_border=true&area=true&bg_color=141321&color=E5289E&line=DA5B0C&point=FFFFFF" />
+
+</div>
 ---
 
 ### 🚀 主要项目
