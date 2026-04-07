@@ -1,12 +1,13 @@
 
+<!-- ========= 置顶项目区域 ========= -->
+<h2 align="center">📌 置顶项目</h2>
+
 <p align="center">
-  <!-- 访客计数器 -->
-  <img src="https://komarev.com/ghpvc/?username=CelestialAsPeak&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <!-- GitHub 关注者徽章 -->
-  <a href="https://github.com/CelestialAsPeak?tab=followers">
-    <img src="https://img.shields.io/github/followers/CelestialAsPeak?label=Followers&style=social" alt="followers" />
+  <a href="https://github.com/CelestialAsPeak/CAPQuake">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CelestialAsPeak&repo=CAPQuake&theme=radical&hide_border=true&border_radius=8" alt="CAPQuake" />
   </a>
 </p>
+
 
 ---
 
