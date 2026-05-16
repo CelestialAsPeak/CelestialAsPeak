@@ -48,8 +48,8 @@
 
 ### 📊 GitHub Stats
 <div style="background: rgba(22,27,34,0.9); border-radius: 12px; padding: 12px;">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=CelestialAsPeak&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelestialAsPeak&layout=compact&langs_count=6&theme=radical&hide_border=true" />
+  <img height="150" src="https://github-readme-stats-eight-inky.vercel.app/api?username=CelestialAsPeak&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="150" src="https://github-readme-stats-eight-inky.vercel.app/api/top-langs/?username=CelestialAsPeak&layout=compact&langs_count=6&theme=dark&hide_border=true" />
 </div>
 
 </td>
