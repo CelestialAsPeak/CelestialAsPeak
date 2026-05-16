@@ -1,5 +1,5 @@
-<!-- 强制暗色全局容器 -->
-<div align="center" style="background-color:#0d1117; color:#f5f5f7; padding:20px; border-radius:0;">
+<!-- 强制暗色全局背景 -->
+<div align="center" style="background-color:#0d1117; color:#f5f5f7; padding:20px;">
 
 <!-- 打字机动效标题 -->
 <h1 align="center">
@@ -47,26 +47,26 @@
 </p>
 
 ### 📊 GitHub Stats
-<div style="background: rgba(22,27,34,0.9); border-radius: 12px; padding: 10px; display: inline-block;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CelestialAsPeak&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=f5f5f7&text_color=a1a1a6&icon_color=58A6FF&bg_color=00000000" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelestialAsPeak&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=f5f5f7&text_color=a1a1a6&bg_color=00000000" />
+<div style="background: rgba(22,27,34,0.9); border-radius: 12px; padding: 12px;">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CelestialAsPeak&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelestialAsPeak&layout=compact&langs_count=6&theme=dark&hide_border=true" />
 </div>
 
 </td>
 <td width="50%" valign="top" style="padding: 10px;">
 
 ### 📅 Contribution Calendar
-<div style="background: rgba(22,27,34,0.9); border-radius: 12px; padding: 10px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CelestialAsPeak&theme=github-dark&hide_border=true&area=true&bg_color=00000000" width="100%" />
+<div style="background: rgba(22,27,34,0.9); border-radius: 12px; padding: 12px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CelestialAsPeak&theme=github-dark&hide_border=true&area=true" width="100%" />
 </div>
 
 ### 🔥 Streak Stats
-<div style="background: rgba(22,27,34,0.9); border-radius: 12px; padding: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelestialAsPeak&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=f5f5f7&sideNums=f5f5f7&currStreakLabel=a1a1a6&sideLabels=a1a1a6&dates=a1a1a6&bg_color=00000000" width="100%" />
+<div style="background: rgba(22,27,34,0.9); border-radius: 12px; padding: 12px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelestialAsPeak&theme=dark&hide_border=true" width="100%" />
 </div>
 
 ### 🏆 GitHub Trophies
-<div style="background: rgba(22,27,34,0.9); border-radius: 12px; padding: 10px;">
+<div style="background: rgba(22,27,34,0.9); border-radius: 12px; padding: 12px;">
   <img src="https://github-profile-trophy.vercel.app/?username=CelestialAsPeak&theme=darkhub&no-frame=true&row=1&column=4" width="100%" />
 </div>
 
