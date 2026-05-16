@@ -1,0 +1,16 @@
+<svg fill="none" width="800" height="220" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="height:100%;display:flex;justify-content:center;align-items:center;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">
+      <div class="card" style="display:flex;gap:30px;padding:30px;border-radius:28px;background:rgba(255,255,255,0.55);backdrop-filter:blur(30px) saturate(180%);-webkit-backdrop-filter:blur(30px) saturate(180%);border:1px solid rgba(255,255,255,0.4);box-shadow:0 8px 40px rgba(0,0,0,0.05);">
+        <img height="160" src="https://github-readme-stats.vercel.app/api?username=CelestialAsPeak&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;title_color=1d1d1f&amp;text_color=6e6e73&amp;icon_color=58A6FF" alt="stats" style="border-radius:16px;" />
+        <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelestialAsPeak&amp;layout=compact&amp;langs_count=6&amp;theme=transparent&amp;hide_border=true&amp;title_color=1d1d1f&amp;text_color=6e6e73" alt="languages" style="border-radius:16px;" />
+      </div>
+    </div>
+    <style>
+      @media (prefers-color-scheme: dark) {
+        .card { background: rgba(30,30,30,0.45); border-color: rgba(255,255,255,0.12); }
+        img { filter: brightness(0.8) contrast(1.2); } /* 让统计图在深色下更清晰 */
+      }
+    </style>
+  </foreignObject>
+</svg>
